@@ -36,7 +36,7 @@ B.S. in Mathematics, Shandong University, 2021-2025
   Based on Hubbard and related references on hyperbolic surfaces.  
   [Douady-Earle extension](Reading.pdf)
   [Trousers decomposition](Trousers.pdf)
-  [Analytic structure](ReadingAnalyticStructureTs.pdf)
+  [Analytic structure](ReadingAnalyticStructure.pdf)
   [Mumford compactness theorem](ReadingMumford.pdf)
 - **PDE and Green's function methods** (reading with Prof. Mikhail Feldman)
 
