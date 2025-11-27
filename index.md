@@ -32,8 +32,7 @@ B.S. in Mathematics, Shandong University, 2021-2025
   Supervised by Prof. Qu Cunquan, Shandong University.
 
 - **Teichmüller theory and hyperbolic surfaces** (reading with Prof. Chenxi Wu)
-- 
- **Teichmüller Theory Notes:**  
+  **Teichmüller Theory Notes:**  
   Based on Hubbard and related references on hyperbolic surfaces.  
   [Douady-Earle extension](Reading.pdf)
   [Trousers decomposition](Trousers.pdf)
