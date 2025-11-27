@@ -28,9 +28,8 @@ B.S. in Mathematics, Shandong University, 2021-2025
 
 ### Projects / Notes
 
-- **Large deviations in complex networks** (undergraduate thesis)  
-  Supervised by Prof. Qu Cunquan, Shandong University.
-
+- **Large deviations in complex systems and networks** Supervised by Prof. Qu Cunquan, Shandong University.
+[Thesis](ThesisLDT.pdf)
 - **Teichmüller theory and hyperbolic surfaces** (reading with Prof. Chenxi Wu)
   **Teichmüller Theory Notes:**  
   Based on Hubbard and related references on hyperbolic surfaces.  
