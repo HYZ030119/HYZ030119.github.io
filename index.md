@@ -37,7 +37,7 @@ B.S. in Mathematics, Shandong University, 2021-2025
   [Trousers decomposition](Trousers.pdf)
   [Analytic structure](ReadingAnalyticStructure.pdf)
   [Mumford compactness theorem](ReadingMumford.pdf)
-- **PDE and Green's function methods** (reading with Prof. Mikhail Feldman)
+- **Elliptic PDE** (reading with Prof. Mikhail Feldman)
 
 ---
 
