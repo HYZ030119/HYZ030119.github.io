@@ -21,7 +21,8 @@ B.S. in Mathematics, Shandong University, 2021-2025
 ### Research Interests
 
 - Smooth dynamical systems  
-- Hyperbolic geometry and Teichmüller theory  
+- Hyperbolic geometry and Teichmüller theory
+- Riemmanian Geometry
 - Large deviations Theory
 
 ---
