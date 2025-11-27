@@ -2,19 +2,19 @@
 
 ### Contact Info
 
-Email: yourname@wisc.edu  
+Email: hzhang2383@wisc.edu  
 
-Office: Van Vleck Hall, University of Wisconsin–Madison  
+Tel:608-640-1448
 
-CV: [PDF](CV_HongyangZhang.pdf)
+
 
 ---
 
 ### Education
 
-M.S. in Mathematics, University of Wisconsin–Madison, 20XX–present  
+M.S. in Mathematics, University of Wisconsin–Madison, 2024–present  
 
-B.S. in Mathematics, Shandong University, 20XX
+B.S. in Mathematics, Shandong University, 2021-2025
 
 ---
 
@@ -22,8 +22,7 @@ B.S. in Mathematics, Shandong University, 20XX
 
 - Smooth dynamical systems  
 - Hyperbolic geometry and Teichmüller theory  
-- Probability and PDE  
-- Large deviations and stochastic processes on networks  
+- Large deviations Theory
 
 ---
 
@@ -38,7 +37,4 @@ B.S. in Mathematics, Shandong University, 20XX
 
 ---
 
-### 简介（中文）
 
-我目前在威斯康星大学麦迪逊分校数学系攻读硕士学位，研究兴趣包括光滑动力系统、
-双曲几何与 Teichmüller 理论、概率论与偏微分方程，以及复杂网络中的大偏差问题。
