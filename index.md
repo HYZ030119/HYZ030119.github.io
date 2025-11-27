@@ -38,7 +38,7 @@ B.S. in Mathematics, Shandong University, 2021-2025
   [Analytic structure](ReadingAnalyticStructure.pdf)
   [Mumford compactness theorem](ReadingMumford.pdf)
 - **Elliptic PDE** (reading with Prof. Mikhail Feldman)
-
+[Green function](PDEGreen.pdf)
 ---
 
 
